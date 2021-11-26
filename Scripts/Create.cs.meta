@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3b780cc6a262c8545b81f83b4eca2b2e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - enemy: {fileID: 2790356613030748287, guid: e15029fb72d74824fb29e1aead62bbfc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
